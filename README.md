@@ -1,2 +1,2 @@
-# Recommendor_movies
-Recommendor System for movies  with pandas library for hollywood movies.
+# Recommender_movies
+Recommender System for movies  with pandas library for hollywood movies.
